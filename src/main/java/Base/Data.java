@@ -1,6 +1,7 @@
 package Base;
 
 public class Data {
-    public String userName = "salih.kpln1@hotmail.com";
-    public String password = "Qwer1234.";
+    //Fill these
+    public String userName = "example@hotmail.com";
+    public String password = "example";
 }
